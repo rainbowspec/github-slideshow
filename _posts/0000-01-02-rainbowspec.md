@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bang Bang mutha fucka
 Use the left arrow to go back!
